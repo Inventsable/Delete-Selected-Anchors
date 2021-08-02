@@ -1,6 +1,6 @@
 # Randomize Selection Color
 
-### [By request on reddit here](https://www.reddit.com/r/AdobeIllustrator/comments/oqwhvo/adding_grain_to_pixel_art/)
+### [By request on reddit here](https://www.reddit.com/r/AdobeIllustrator/comments/ow39h3/is_it_possible_to_remove_a_batch_of_anchor_points/)
 
 A script to remove selected anchors from a shape entirely rather than using path simplification or smoothing methods
 
